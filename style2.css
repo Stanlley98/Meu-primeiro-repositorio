@@ -12,6 +12,15 @@ body {
 		color: white;
 	}
 
+}
+.banner img: hover{
+	border-color: black;	
+}
+
+.banner img{
+	display: inline-block;
+	width: 220px;
+}
 
 .produtos{
 	width: 940px;
